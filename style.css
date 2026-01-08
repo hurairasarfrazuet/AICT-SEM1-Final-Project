@@ -554,6 +554,7 @@
  /* Contact */
  .footer-contact li {
      display: flex;
+     gap: 0.75rem;
      align-items: center;
      color: var(--slate-500);
      font-size: 0.95rem;
